@@ -20,7 +20,7 @@
 		  }else
 		  {   console.log('You Entered the following :' + content);
 			  console.log('It has been successfully saved in the database');
-			  console.log('Thanks');
+			  console.log('Thanks that is cool');
 		  }
 	  });
         
